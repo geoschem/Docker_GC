@@ -13,3 +13,6 @@ ENV GC_BIN=$NETCDF_HOME/bin \
     GC_F_BIN=$NETCDF_FORTRAN_HOME/bin \
     GC_F_INCLUDE=$NETCDF_FORTRAN_HOME/include \
     GC_F_LIB=$NETCDF_FORTRAN_HOME/lib
+
+# fix Perl error message
+ENV LANG C
