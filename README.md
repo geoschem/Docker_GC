@@ -1,3 +1,5 @@
+## NOTE: THIS REPOSITORY IS OBSOLETE AND HAS BEEN ARCHIVED.
+
 # Docker_GC
 Dockerfile for GEOS-Chem classic
 
